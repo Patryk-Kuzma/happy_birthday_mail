@@ -1,4 +1,4 @@
-# happy_birtthday_mail
+# happy_birthday_mail
 
 It allows to:
 - take birthday data input from .csv file
